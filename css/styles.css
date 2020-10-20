@@ -343,7 +343,7 @@ a.dotted-link:hover {
   color: #5f6b77;
 }
 .projects .item :hover{
-  transform: scale(1.5);
+  transform: scale(1.3);
   z-index:10;
 }
 
