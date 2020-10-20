@@ -344,6 +344,8 @@ a.dotted-link:hover {
 }
 .projects .project_image :hover {
   z-index:10;
+  max-width:300px;
+  height:auto;
 }
 
 /* Work Section */
